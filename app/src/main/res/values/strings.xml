@@ -3,4 +3,5 @@
     <string name="hint">Текст</string>
     <string name="button">Нажми</string>
     <string name="ok">OK</string>
+    <string name="time">Здесь будет время</string>
 </resources>
